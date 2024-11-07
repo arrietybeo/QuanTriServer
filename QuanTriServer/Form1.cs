@@ -45,6 +45,7 @@ namespace QuanTriServer
             DatabaseBox.Text = "data";
             panel1.MouseDown += new MouseEventHandler(panel1_MouseDown);
 
+
         }
 
         [DllImport("user32.dll", CharSet = CharSet.Auto)]
